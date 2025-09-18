@@ -4,7 +4,7 @@ package com.ToDoList.jpa.Entity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "tb_todolist")
+@Table(name = "tb_usuario")
 public class Usuario {
 
     @Id
